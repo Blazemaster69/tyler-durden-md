@@ -1477,12 +1477,12 @@ replay('This Group has been *unbanned* from using me!')
 
 case 'support': case 'supportgc':
     
-    reply(`*My developer's group:* http://gg.gg/MikuSupport`)
+    reply(`*My owner's insta:* https://www.instagram.com/blazesama_69`)
     break
 
 case 'repo': case 'botrepo':
     
-    reply(`*My Source Code:* https://github.com/FantoX001/Miku-MD`)
+    reply(`*github:* link in ig bio`)
     break
 
 case 'nsfwmenu':
