@@ -15,7 +15,7 @@ global.packname = "⚡ tyler durden md"
 global.author = "By:⚡ blaze sama "
 global.OwnerName = "⚡ blaze sama "
 global.BotSourceCode = "https://www.instagram.com/blazesama_69"
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
+global.SupportGroupLink = "https://chat.whatsapp.com/HZ0YuI6anoTD4G1etUSnMy"
 global.sessionName = "session"
 
 // Prefix //
@@ -23,7 +23,7 @@ global.sessionName = "session"
 global.prefa = ['-'] 
 
 
-global.location = "West Bengal, India"
+global.location = "maharashtra, India"
 global.reactmoji = "⚡"
 global.themeemoji = "✨"
 global.vidmenu = { url: 'https://media.tenor.com/videos/daee3da4ceea696398419914dc193157/mp4' }
