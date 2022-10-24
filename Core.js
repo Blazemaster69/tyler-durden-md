@@ -3296,7 +3296,7 @@ case 'music': case 'play': case 'song': case 'ytplay': {
  ]
  let buttonMessage = {
  image: { url: anu.thumbnail },
- caption: `「  _Miku Youtube Player 2.0_  」
+ caption: `「 ⚡ regards - blaze sama  」
 
 *Title :* ${anu.title}
 
@@ -3363,7 +3363,7 @@ case 'music': case 'play': case 'song': case 'ytplay': {
  ]
  let buttonMessage = {
  image: { url: anu.thumbnail },
- caption: `「  _Miku Youtube Downloader 2.0_  」
+ caption: `「  ⚡ regards -blaze sama  」
 
 *Title :* ${anu.title}
 
@@ -4704,7 +4704,7 @@ case 'help': case 'h': case 'menu': case 'allmenu': case 'listmenu':{
     if (isBan) return reply(mess.banned)	 			
     if (isBanChat) return reply(mess.bangc)
       
- const helpmenu = `welcome to ⚡ project mayhem*${pushname}*,
+ const helpmenu = `welcome to ⚡ project mayhem *${pushname}*,
 
 I am *tyler durden*, a bot owned by *blaze sama*.
 
@@ -4712,8 +4712,6 @@ I am *tyler durden*, a bot owned by *blaze sama*.
 
 Here's the list of my Commands.
 
-
- 
  *━━━〈  🤖 Core 🤖  〉━━━*
 
 speak, miku, stalk, profile, help, delete, deleteall, listgc, listpc, welcome, support, repo, script 
@@ -4775,8 +4773,6 @@ qr, say, translate, fliptext, toletter
 🍁 Type " *${prefix}nsfw* " then enable NSFW (Admin only!) 
 
 🍁 Then type " *${prefix}nsfwmenu* " to get full list of NSFW commands.
-
-
 
 
  『  *${global.BotName}*  』
