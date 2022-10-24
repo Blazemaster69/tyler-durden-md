@@ -26,8 +26,8 @@ console.log(color(figlet.textSync('Miku Bot MD', {
 		whitespaceBreak: true
         }), 'yellow'))
 
-console.log(color('\nHello, I am Fantox, the main developer of this bot.\n\nThanks for using: Miku Bot','aqua'))
-console.log(color('\nYou can follow me on GitHub: FantoX001','aqua'))
+console.log(color('\nHello, boku wa blaze sama, the owner of this bot.\n\nThanks for using: tyler durden md','aqua'))
+console.log(color('\nYou can follow me on insta: https://www.instagram.com/blazesama_69','aqua'))
 
     let { version, isLatest } = await fetchLatestBaileysVersion()
     const Miku = MikuConnect({
@@ -170,7 +170,7 @@ Miku.sendMessage(anu.id, buttonMessage)
                     mikutext = `
 Sayonara 👋, @${WAuserName.split("@")[0]},
 
-I hope you will come back soon, but we are not going to miss you though!
+but remember this "do not talk about the fight club"
 `
 
     let buttonMessage = {
